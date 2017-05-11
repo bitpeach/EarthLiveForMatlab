@@ -5,7 +5,7 @@ EarthLive is a function program of displaying live pictures of earth on our PC d
 Nice for Homework!
 ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/A%20boat.jpg)
 
-# How does EarthLive program works
+# How does EarthLive program work
 * The live images or real-time pictures of earth are photographed by the satellite. We should download or take the pictures from the website or date store of satellite. Notice that the pictures are incoherent. In other words, several pictures comprise a complete earth.
 
 * After the images are downloaded, we program in Matlab codes to combine the pictures into the whole earth.
