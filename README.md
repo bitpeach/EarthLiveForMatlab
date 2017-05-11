@@ -56,6 +56,7 @@ May 11, 20:00, 2017.
  ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/2017_05_11_20_00_00.png)
  
  * Imagine the shadow of live earth on your PC wallpaper may be rotated in every 10 minutes.
+ (Please wait for a moment. The following picture is animated.)
  ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/EarthLive.gif)
 
 # The Limitation of EarthLiveForMatlab
