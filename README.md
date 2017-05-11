@@ -34,7 +34,7 @@ EarthLive is a function program of displaying live pictures of earth on our PC d
  * We can use the Matlab function 'urlread(URL)' to download those sub-pictures. Also, we can use the CDN to help us downloading those sub-pictures for avoiding the failed downlink.
  
  # The running steps of Matlab Codes
-* Firstly, solve the JSON format file from 'http://himawari8.nict.go.jp/img/D531106/latest.json'. For Matlab, the JSON file resolving is a time-consuming job. We should write a JSON reading Matlab function script whereas Python has a standard function or interface.
+* Firstly, solve the JSON format file from 'http://himawari8.nict.go.jp/img/D531106/latest.json'. For Matlab, the JSON file resolving is a time-consuming job. We should write a JSON reading Matlab function script whereas Python has a standard function or interface. Regular expressions in Matlab codes have been tried.
 
 * Secondly, use the CDN to help downloading the pictures. Using CDN function is to fetch the remote web link as the following situaion, where interface URL is shown as 'himawari8-dl.nict.go.jp/himawari8/img/D531106/8d/550/2016/05/15/100000_0_0.png'. 
 </br>`http://res.cloudinary.com/[%Your_Cloud_Account_Name]/image/fetch/[%interface URL]`
