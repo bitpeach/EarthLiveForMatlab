@@ -1,6 +1,8 @@
 # What is EarthLiveForMatlab
 
-EarthLive is a function program of displaying live pictures of earth on our PC desktop, in every 10 minutes. The live photos of global earth map are pictured by the satellite named ’Himawari8’. The Python version of EarthLive for running on the mac has been finished by me, which adopts sub-pictures comprising of 4 parts. Now, the matlab version has been complemented. The function of processing pictures by Matlab is weaker than Python. Hence, there are several problems existing on displaying the live earth wallpaper. This Matlab program is a simple code to use 64 real-time sub-picture parts of earth for the PC wallpaper, which are larger and clearer than other counterparts.
+EarthLive is a function program of displaying live pictures of earth on our PC desktop, in every 10 minutes. The live photos of global earth map are pictured by the satellite named ’Himawari8’. The Python version of EarthLive for running on the mac has been finished by me, which adopts sub-pictures comprising of 4 parts. Now, the matlab version has been complemented. The function of processing pictures by Matlab is weaker than Python. Hence, there are several problems existing on displaying the live earth wallpaper. This Matlab program is a simple code to use 64 real-time sub-picture parts of earth for the PC wallpaper as the follow, which are larger and clearer than other counterparts.
+![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/Wallpaper%20(win10).PNG)
+
 
 Nice for Homework!
 ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/A%20boat.jpg)
