@@ -74,9 +74,11 @@ May 11, 20:00, 2017.
 # Finally
 ` Be careful to use Powershell with Matlab for setting this wallpaper of Windows 10.`
 
-` When I tried to use system command lines or Powershell, this version of Matlab code has been failed.`
+` When I tried to use the Powershell, this version of Matlab code has been failed.`
 
-` And, the Registry Editor of my computer was damaged. My desktop picture or default wallpaper has disappeared irreversibly.`
+` The Registry Editor or system setting of my computer was damaged.`
+
+` Most importantly, my default desktop wallpaper has been disappeared irreversibly and un-resetting in Windows 10.`
 
 ` 将来代码功能上有什么偏差，造成了系统桌面壁纸消失，不可逆转恢复，你们自己是要负责的。蛤?`
 
