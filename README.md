@@ -67,3 +67,7 @@ May 11, 20:00, 2017.
 
 # The Limitation of EarthLiveForMatlab
 * This Code is for fun. Therefore, this script or tool is just beginning and we wait for more friends to help polishing this code. Thank you.
+
+## License
+[GNU General Public License, version 3](LICENSE)
+
