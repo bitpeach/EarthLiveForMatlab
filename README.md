@@ -38,7 +38,7 @@ Nice for Homework!
  
  * We can use the Matlab function 'urlread(URL)' to download those sub-pictures. Also, we can use the CDN to help us downloading those sub-pictures for avoiding the failed downlink.
  
- # The running steps of Matlab Codes
+# The running steps of Matlab Codes
 * Firstly, solve the JSON format file from 'http://himawari8.nict.go.jp/img/D531106/latest.json'. For Matlab, the JSON file resolving is a time-consuming job. We should write a JSON reading Matlab function script whereas Python has a standard function or interface. Regular expressions of Matlab codes have been tried.
 
 * Secondly, use the CDN to help downloading the pictures. Using CDN function is to fetch the remote web link as the following situation, where interface URL is shown as 'himawari8-dl.nict.go.jp/himawari8/img/D531106/8d/550/2016/05/15/100000_0_0.png'. 
@@ -52,7 +52,7 @@ Nice for Homework!
 
 * Finally, get a complete high-definition picture of live earth. Excited!
 
- # The Example
+# The Example
 * 64 sub-pictures of 8 dimensions comprise a complete earth.
 May 10, 12:00, 2017. The following picture can be used as the wallpaper of the 4K display.
 ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/2017_05_10_12_30_00.png)
@@ -68,6 +68,18 @@ May 11, 20:00, 2017.
 # The Limitation of EarthLiveForMatlab
 * This Code is for fun. Therefore, this script or tool is just beginning and we wait for more friends to help polishing this code. Thank you.
 
-## License
+# License
 [GNU General Public License, version 3](LICENSE)
 
+# Finally
+` Be careful to use Powershell with Matlab for setting this wallpaper of Windows 10.`
+
+` When I tried to use system command lines or Powershell, this version of Matlab code has been failed.`
+
+` And, the Registry Editor of my computer was damaged. My desktop picture or default wallpaper has disappeared irreversibly.`
+
+` 将来代码功能上有什么偏差，造成了系统桌面壁纸消失，不可逆转恢复，你们自己是要负责的。蛤?`
+
+` All men must die. All men must serve. All things must be with the basic law.` 
+
+By @bitpeach
