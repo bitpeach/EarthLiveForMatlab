@@ -78,7 +78,7 @@ May 11, 20:00, 2017.
 
 ` The Registry Editor or system setting of my computer was damaged.`
 
-` Most importantly, my default desktop wallpaper has been disappeared irreversibly and un-resetting in Windows 10.`
+` My default desktop wallpaper was disappeared irreversibly and un-resetting in Windows 10.`
 
 ` 将来代码功能上有什么偏差，造成了系统桌面壁纸消失，不可逆转恢复，你们自己是要负责的。蛤?`
 
