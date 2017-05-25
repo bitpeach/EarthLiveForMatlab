@@ -46,11 +46,15 @@ Nice for Homework!
 
 * Thirdly, combine the 64 sub-pictures into the complete earth picture. We discovered the types of sub-pictures are different, such as the parts of the complete earth picture, namely several sub-pictures, are comprised of gray images, not RGB images. In other words, the Matlab matrix may be in 2 dimensions of gray images but 3 dimension of RGB images. Gray images may not be transformed into RGB images because of the image information loss. We ventured the idea that the Matlab matrix will be forced into 3-dimension zero matrix, when we recognized gray images. Due to the lack of image process combination by Matlab, we transferred different images into one matrix within uint values.
 
-* Then, design a simple GUI by Matlab.
+* Fourthly, design a simple GUI by Matlab.
 
 ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/Matlab%20GUI.png)
 
-* Finally, get a complete high-definition picture of live earth. Excited!
+* Then, get a complete high-definition picture of live earth. Excited!
+
+* Sixly, you can input your the pixels of desktop wallpaper into the GUI. The resized wallpaper which is matching for your desktop will be produced.
+
+* Finally, for Windows 10 system, this code writes a final picture to your `C:\Users\%computer account username%\Pictures\Camera Roll`. The Matlab has limitations on calling for the system command or powershell command lines. So that the way to save the final earth live picture in that filepath may be the solution.
 
 # The Example
 * 64 sub-pictures of 8 dimensions comprise a complete earth.
