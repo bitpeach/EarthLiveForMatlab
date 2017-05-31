@@ -67,7 +67,15 @@ May 11, 20:00, 2017.
  * Imagine the shadow of live earth on your PC wallpaper may be rotated around every 10 minutes.
  (Please wait for a moment. The following picture is animated.)
  If you cannot watch this GIF by mobile phone, please use the personal computer. :-)
- ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/EarthLive.gif)
+ 
+ Non-Square GIF Picture
+ ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/Morning%20Earth%20Live.gif)
+ 
+ Square GIF Picture
+ ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/Afternoon%20Earth%20Live.gif)
+
+ Square GIF Picture
+ ![](https://github.com/bitpeach/EarthLiveForMatlab/blob/master/Night%20Earth%20Live.gif)
 
 # The Limitation of EarthLiveForMatlab
 * This Code is for fun. Therefore, this script or tool is just beginning and we wait for more friends to help polishing this code. Thank you.
